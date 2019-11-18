@@ -23,7 +23,7 @@ We built our code based on OpenAI baseline. Specifically, each `.py` file in thi
 
 Please first download OpenAI baselines (https://github.com/openai/baselines).
 
-Then checkout to the following history commit, and follow the instructions to install OpenAI baselines.
+Then, checkout to the following history commit, and follow the instructions to install OpenAI baselines.
 
 ```
 git checkout 1f3c3e33e7891cb350562757f29cb32ec647efd0
